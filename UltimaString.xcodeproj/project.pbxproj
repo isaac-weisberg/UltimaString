@@ -11,6 +11,7 @@
 		FA8A4D6922C0BB7100FA5031 /* Implementations.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8A4D6822C0BB7100FA5031 /* Implementations.swift */; };
 		FA8A4D6B22C0C26300FA5031 /* Trait.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8A4D6A22C0C26300FA5031 /* Trait.swift */; };
 		FA8A4D6D22C0C27700FA5031 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8A4D6C22C0C27700FA5031 /* String.swift */; };
+		FA8A4D6F22C0C66B00FA5031 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA8A4D6E22C0C66B00FA5031 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FA8A4D6822C0BB7100FA5031 /* Implementations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Implementations.swift; sourceTree = "<group>"; };
 		FA8A4D6A22C0C26300FA5031 /* Trait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trait.swift; sourceTree = "<group>"; };
 		FA8A4D6C22C0C27700FA5031 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		FA8A4D6E22C0C66B00FA5031 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		FA8A4D5122C0B98100FA5031 = {
 			isa = PBXGroup;
 			children = (
+				FA8A4D6E22C0C66B00FA5031 /* README.md */,
 				FA8A4D5D22C0B98100FA5031 /* UltimaString */,
 				FA8A4D5C22C0B98100FA5031 /* Products */,
 			);
@@ -129,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8A4D6F22C0C66B00FA5031 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
